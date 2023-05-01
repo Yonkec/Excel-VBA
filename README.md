@@ -1,2 +1,2 @@
 # Excel-VBA
-Random Excel VBA Macros I've written over the years.
+Random VBA Macros I've written over the years.
